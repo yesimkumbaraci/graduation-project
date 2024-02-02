@@ -20,3 +20,8 @@ The project covers end-to-end cost optimization of the automotive industry custo
 * Logistics data were used to provide the outputs of the mathematical model and make corresponding analyses.
 * The model was run in Python language, Gurobi solver environment with the inputs taken from and output automatically sent to the Excel sheet.
 * The excel sheet shows the schedule of trucks with corresponding fill rates, resulting in improved decision-making & time-saving through automation.
+
+## Project Impact
+
+<img width="604" alt="image" src="https://github.com/yesimkumbaraci/graduation-project/assets/63934746/d8ddf7de-7a1b-4b9a-b8aa-b3ba0c16d698">
+
